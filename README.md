@@ -1,1 +1,1 @@
-# eigen
+{ "name": "qheisenberg", "website": "https://twitter.com/qheisenberg3", "description": "qheisenberg", "logo": "https://i.ibb.co/1qBYKfw/heisenberg.png", "twitter": "https://twitter.com/qheisenberg3" }
